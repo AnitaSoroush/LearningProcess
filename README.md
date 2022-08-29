@@ -1,12 +1,8 @@
 # LearningProcess
 
-# NeuronPopulationsAndDecisionMaking
-
-[LIF_ALIF_AELIF.ipynb](https://github.com/AnitaSoroush/LIF_ALIF_AELIF/blob/main/LIF_ALIF_AELIF.ipynb) contains:
-* An implementation of LIF neuron model (Leaky Integrate and Fire), Adaptive LIF and Adaptive Exponential LIF from scratch.
-* An implementation of 5 different currents to be the input of our neurons.
-* An implementation of Line graphs that represent **membrane potential** of each neuron when exposed to each input current.
-* An implementation of Line graphs that represent the **frequency of firing** of each neuron when exposed to each input current.
+[LearningProcess.ipynb](https://github.com/AnitaSoroush/LearningProcess/blob/main/LearningProcess.ipynb) contains:
+* STDP (Spike-Timing Dependent Plasticity): A simulation of unsupervised learning process in our brains.
+* Reward-Based STDP: A simulation of reinforcement learning process in our brains.
 
 [Report.pdf](https://github.com/AnitaSoroush/LIF_ALIF_AELIF/blob/main/Report.pdf) contains:
 * A complete explanation of required mathematics.
